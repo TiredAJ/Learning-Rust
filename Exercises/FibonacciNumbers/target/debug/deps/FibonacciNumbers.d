@@ -1,5 +1,0 @@
-E:\non-UniWork\_Rust\FibonacciNumbers\target\debug\deps\FibonacciNumbers.exe: src\main.rs
-
-E:\non-UniWork\_Rust\FibonacciNumbers\target\debug\deps\FibonacciNumbers.d: src\main.rs
-
-src\main.rs:
